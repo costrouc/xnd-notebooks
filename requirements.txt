@@ -1,0 +1,9 @@
+jupyterlab
+ipython-c-kernel
+
+numpy
+numba
+
+ndtypes
+xnd
+gumath
