@@ -1,5 +1,5 @@
 jupyterlab
-ipython-c-kernel
+jupyter-c-kernel
 
 numpy
 numba
